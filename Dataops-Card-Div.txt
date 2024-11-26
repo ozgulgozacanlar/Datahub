@@ -1,0 +1,55 @@
+ {/* <div className="data-governance">
+          <div className="data-col-title" onClick={() => handleColumnClick("4a48a9fb-a902-4219-8bac-bf8dc355cf48")}>
+            <DataGovIco />
+            Data Governance
+          </div>
+          <div className="data-col-grid">
+          <Card objectId="WPEZKJ" app={app} title='DQ Score' />
+          <Card objectId="JTmuuHB" app={app} title='Veri Envanteri Skor' />
+          </div>
+        </div>
+        <div className="usage-capacity">
+          <div className="data-col-title" onClick={() => handleColumnClick("f7223bad-7771-4427-bd0b-cd29844a53e8")}>
+            <UsageCapacityIco />
+            Usage & Capacity
+          </div>
+          <div className="data-col-grid">
+          <Card objectId="cfgMWb" app={app} title='Prisma Kullanım Oranı' />
+          <Card objectId="xphYcfe" app={app} title='ODI Prisma Dönüşüm' />
+          <Card objectId="KgaCXB" app={app} title='Qlik Rapor Kalite Skoru' />
+          </div>
+        </div>
+        <div className="pipeline-health">
+          <div className="data-col-title" onClick={() => handleColumnClick("9a7c8ce2-5aa8-474d-8ab4-68d386141344")}>
+            <PipelineHealthIco />
+            Pipeline Health
+          </div>
+          <div className="data-col-grid">
+          <Card objectId="XmpfWmm" app={app} title='Hassas Path SLA Uyum'/>
+          <Card objectId="xPzmuP" app={app} title='Kritik İş Kesici DQ Sayıları'/>
+          <Card objectId="xPzmuP" app={app} title='Historical STG Tablo'/>
+          <Card objectId="MPvgh" app={app} title='Metadata Farklılıkları'/>
+         
+          </div>
+        </div>
+        <div className="development-automation">
+          <div className="data-col-title" onClick={() => handleColumnClick("d68e016b-488a-4b35-bf07-7cdcdee1aa40")}>
+            <DevelopmentAutoIco />
+            Development & Automation
+          </div>
+          <div className="data-col-grid">
+          <Card objectId="hgPXnh" app={app} title='ODI Code Quality' />
+          <Card objectId="JFAfPpu" app={app} title='Procedure Sayıları' />
+         
+          </div>
+        </div>
+        <div className="devsecops">
+          <div className="data-col-title" onClick={() => handleColumnClick("b16f5af9-a9e9-4c73-a7dc-b4b4aadb1876")}>
+            <DevSecOpsIco />
+            DevSecOps
+          </div>
+          <div className="data-col-grid">
+          <Card objectId="tgkHEmp" app={app} title='DevSeOps' />
+       
+          </div>
+        </div> */}
