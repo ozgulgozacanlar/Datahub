@@ -1,0 +1,25 @@
+div.qvobject {
+    flex: 1 1 auto;
+    height: 260px;
+    min-width: 400px;
+    width: 100%;
+}
+.qv-inner-object {
+    font-family:'benton_sans_bbvamedium' !important;
+}
+.qv-object-title-text{
+    font-family:'benton_sans_bbvamedium' !important;
+    font-size: 15px !important;
+}
+.qv-chart-component{
+    font-family:'benton_sans_bbvamedium' !important;
+}
+.info-table-wrapper table tbody tr td:nth-child(2) > div > div > span {
+    font-family: 'benton_sans_bbvamedium' !important;
+}
+.info-table-wrapper table thead tr th > div > div > div > span {
+    font-family: 'benton_sans_bbvamedium' !important;
+}
+.qv-viz{
+    height: 260px !important;
+}
